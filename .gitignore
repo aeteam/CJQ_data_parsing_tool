@@ -1,0 +1,8 @@
+# dependencies
+/Cycle*
+/dut*
+Summary_Cycle*
+Signal_*
+CJQ_DATA
+# misc
+.DS_Store
